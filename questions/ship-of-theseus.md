@@ -9,7 +9,7 @@ Is this "reconstructed" ship the original ship? And if so, is the restored ship 
 
 ## Answer
 
-Gradual loss of identity
+*Gradual loss of identity*
 
 As the parts of the ship are replaced, the identity of the ship gradually changes, as the name "Theseus' Ship" is a truthful description only when the historical memory of Theseus' use of the ship - his physical contact with, and control of, its matter - is accurate.
 
