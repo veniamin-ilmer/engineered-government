@@ -10,3 +10,14 @@ They argue that the only reason they pay taxes is that the government is forcing
 
 ## Solution
 
+The government should not tax any private transactions. That includes sales tax, income tax, and estate tax.
+
+Instead, the government should collect money via use of government property. It should hence not be "tax", but rent.
+
+Government property include land, air, and natural resource use.
+
+Instead of selling land to private individuals, the government should "rent" it to them. The rent rate of any property should be auctioned to the highest bidder.
+
+Same thing with air use (air pollution, noise pollution), that includes airplanes flying through the air.
+
+As a consequence of never selling the land, but simply renting it out, "taxes" are never collected. People simply pay for use of government land. This way, the usual arguments against taxes are side-stepped.
