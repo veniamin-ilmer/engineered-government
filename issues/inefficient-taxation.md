@@ -1,4 +1,4 @@
-# Improper Taxation
+# Inefficient Taxation
 
 ## User Story
 
