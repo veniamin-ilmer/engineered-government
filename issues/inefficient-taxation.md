@@ -25,3 +25,5 @@ Same thing with air use (air pollution, noise pollution), that includes airplane
 As a consequence of never selling the land, but simply renting it out, "taxes" are never collected. People simply pay for use of government land. This way, the usual arguments against taxes are side-stepped.
 
 Private transactions are left untaxed.
+
+[Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax), is known to be an [optimal tax](https://en.wikipedia.org/wiki/Optimal_tax), due to it not increasing the price of the land, and instead encouraging development of the land as much as possible.
