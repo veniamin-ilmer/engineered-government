@@ -3,8 +3,11 @@
 ## User Story
 
 > It is unfair for the government to make me pay taxes off my private transactions.
+
 > Because of sales and income taxes, I cannot sell as many items and can't hire as many people.
+
 > Isn't the government always trying to get more people employed? Well income tax goes against that, because our small businesses can't afford to hire enough people with these income taxes.
+
 > The government should find some other way to get taxes.
 
 ## Solution
