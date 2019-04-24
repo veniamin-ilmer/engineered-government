@@ -1,7 +1,3 @@
-# Life Answers
+# Engineered Government
 
-There are lots of questions in life.
-
-I will answer these questions with my personal opinion.
-
-See the questions folder for the list.
+Questions about how to govern, answered from an engineering perspective.
